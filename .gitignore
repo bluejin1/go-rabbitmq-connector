@@ -1,0 +1,40 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+
+### VisualStudioCode ###
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+### Goland ###
+.idea/*
+
+### Go ###
+*.exe
+*.exe~
+
+### Etc ###
+debug
+vendor
+vendor/*
+*.log
+*.test
+*.out
+*.out
+/docs
+
+*.iml
+*.xml
+
+### custom ###
+logs/*
+/task
